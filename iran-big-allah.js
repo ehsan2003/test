@@ -1,4 +1,4 @@
-let destPosition = { x: 354, y: 535 };
+let destPosition = { x: 522, y: 138 };
 let destBoard = [
     [
         27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27,
